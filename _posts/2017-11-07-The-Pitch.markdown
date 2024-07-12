@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Pitch post mortem"
+date: 2017-11-07 12:00:00
+author: Alexander Allman
+categories:
+- Blog
+- Play and Games
+img: PlayAndGames.jpg
+thumb: thumb01.jpg
+published: true
+---
+
+## Pitching the idea
+
+Today my group pitched the police game idea to our module and course leaders.
+
+<!--more-->
+-----
+### Post mortem of the presentation
+Overall the pitch presentation for our game when very well. We managed to get the idea across fairly well without needing very many questions at the end to be asked in regards to certain mechanics of the game. For example one of the things we failed to mention is that when you don't resolve a crisis on a neighbouring district that isn't owned; then both the players connected to it take repercussions in funds. We also had to explain how the winning condition was based off how many crisis' a player solved and at this point it's the first to resolve thirty crisis'.
+
+We also Americanised our game a bit too much by naming the callouts "crisis" and areas districts and it was brought to our attention that not all of the callouts police attend to are crisis. The example Sean gave was how police have to attend football matches to keep the peace.
+
+All in all however, these criticisms are fairly simple to remedy and I'm extremely happy that the overall idea and theme of the game went down very well. With a little more research we can find appropriate names for all aspects of our game and focus on tinkering with the various rules of the game and balancing numbers out.
+
+Here is a picture of one of the slides we presented, showing our initial designs of our playing cards and game board:
+
+[![https://gyazo.com/c9dd3f6a9794954a24d1f045a79ced42](https://i.gyazo.com/c9dd3f6a9794954a24d1f045a79ced42.png)](https://gyazo.com/c9dd3f6a9794954a24d1f045a79ced42)

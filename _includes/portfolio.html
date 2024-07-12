@@ -5,8 +5,11 @@
             {% for project in site.projects reversed limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
+                    {% if project.img contains "/assets/"%}
+                    <img src="{{ project.img | prepend: site.baseurl }}" alt="">
+                    {% else %}
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
-                        
+                    {% endif %}
                         {% if project.redirect %}
                          <div class="he-view">
                                 <a href="{{ project.redirect }}" target="_blank">

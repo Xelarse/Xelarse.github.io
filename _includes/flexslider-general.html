@@ -1,0 +1,16 @@
+<div>
+  <div class="flexslider">
+      <ul class="slides">
+            {% for imageUrl in include.imageUrls %}
+            <li>
+                  <img src="{{ imageUrl }}">
+                  {% if include.imageCaptions[forloop.index0] != "NA"%}
+                  <p class="flex-caption" style="text-align: center;">{{ include.imageCaptions[forloop.index0] }}</p>
+                  {% else %}
+                  <p class="flex-caption" style="text-align: center;"></p>
+                  {% endif %}
+           </li>
+            {% endfor %}
+      </ul>
+  </div>
+</div>

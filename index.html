@@ -10,13 +10,11 @@ permalink: /
             <h4>Latest Posts</h4>
             <div class="hline"></div>
             {% for post in site.posts limit:10 %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
             {% endfor %}
-             <div class="hline"></div> 
-        </div>      
+             <div class="hline"></div>
+        </div>
     </div><! --/row -->
 </div><! --/container -->
 
 {% include portfolio.html title="LATEST WORKS" limit=10 %}
-
-
